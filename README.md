@@ -1,4 +1,13 @@
-### Hi, I'm Lee
+# Hi, I'm Lee
+## 데이터 사이언티스트 및 데이터 업무 기획자
+🌱 I'm currently master's degree at SKKU.
+
+🔭 My research topic is CV, recommendation system.
+
+
+
+<!--ㅋㅋㅋㅋ
+--------------
 
 <!--
 **edenLee94/edenLee94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
