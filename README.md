@@ -8,8 +8,9 @@
 - MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
 - Leadership, startup
 - wine, tea, agriculture business
+
 <div align=center>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lswlmk@gmail.com)](mailto:lswlmk@gmail.com)
+ [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lswlmk@gmail.com)](mailto:lswlmk@gmail.com)
 </div>
 <div align=center>
 
