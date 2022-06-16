@@ -4,22 +4,15 @@
 
 🔭 My research topic is CV, recommendation system.
 
+### Interest
+- MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
+- Leadership, startup
+- wine, tea, agriculture business
+<div align=center>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lswlmk@gmail.com)](mailto:lswlmk@gmail.com)
+</div>
+<div align=center>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 
-<!--ㅋㅋㅋㅋ
---------------
-
-<!--
-**edenLee94/edenLee94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
