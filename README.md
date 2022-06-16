@@ -1,9 +1,12 @@
 
 <div align=center>
-Hi, I'm Lee
-데이터 사이언티스트 및 데이터 업무 기획자
+  Hi, I'm Lee
+  
+  데이터 사이언티스트 및 데이터 업무 기획자
 </div>
+
 🌱 I'm currently master's degree at SKKU.
+
 
 🔭 My research topic is CV, recommendation system.
 
