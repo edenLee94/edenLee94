@@ -11,7 +11,7 @@
 🔭 My research topic is CV, recommendation system.
 
 ### Interest
-- MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
+- object dection, Image captioning, VQA, multimodal
 - Leadership, startup
 - wine, tea, agriculture business
 
